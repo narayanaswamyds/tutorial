@@ -1,1 +1,1 @@
-hi hello everyone
+echo "Test is done"
